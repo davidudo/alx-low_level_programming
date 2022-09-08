@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
 
+/**
+ * main - main block
+ * Return: 1
+ */
 
 int main(void)
 {
