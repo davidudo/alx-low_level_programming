@@ -3,8 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- * return: 0
+ * main - Entry Point
+ *
+ * Description: prints the value of n status
+ *
+ * Return: 0
  */
 
 int main(void)
