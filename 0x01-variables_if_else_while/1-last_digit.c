@@ -15,7 +15,6 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	/* my own code goes there */
-
 	digit = n % 10; /* Get's the last digit */
 	
 	if (digit > 5)
