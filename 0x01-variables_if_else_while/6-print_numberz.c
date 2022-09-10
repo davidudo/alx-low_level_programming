@@ -2,7 +2,7 @@
 
 /**
  * main - prints base ten digits without char
- * 
+ *
  * Return: zero
  */
 int main(void)
