@@ -3,7 +3,7 @@
 /**
  * print_alphabet - print lower alphabet
  *
- * Description: prints lower alphabet ten times
+ * Description: prints lower alphabet 10 times
  *
  * Return: void
  */
