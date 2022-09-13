@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet - print lower alphabet
+ * print_alphabet_x10 - print lower alphabet
+ *
  * Description: print_alphabet_x10 prints 10 times
+ *
  * Return: void
  */
 
