@@ -3,7 +3,7 @@
  * print_last_digit - Print the last digit of a number
  *
  * @num: type int
- * 
+ *
  * Return: return value of last digit
  */
 int print_last_digit(int num)
