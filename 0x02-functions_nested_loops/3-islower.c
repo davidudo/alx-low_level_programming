@@ -2,9 +2,11 @@
 
 /**
  * _islower - prints 1 or 0 depending on input
- * 
+ *
+ * @ch: first parameter
+ *
  * Description: prints lowercase
- * 
+ *
  * Return: 0 or 1
  */
 
