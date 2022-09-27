@@ -2,7 +2,7 @@
 
 # ALX Low Level Programming
 
->Solutions to by ALX low level programming tasks. This tasks were given to help me understand C programming language and how it can be used to build programs.
+>Solutions to my ALX low level programming tasks. This tasks were given to help me understand C programming language and how it can be used to build programs.
 
 <p align="center">
   <img src="https://i.postimg.cc/rprHShJ1/C-compilation-process.gif" />
