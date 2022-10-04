@@ -2,7 +2,7 @@
 
 ## Concepts
 
-For this project, we expect you to look at this concept:
+For this project, I looked at this concept:
 - [Automatic and dynamic allocation, malloc and free](https://alx-intranet.hbtn.io/concepts/62)
 
 ## Resources
@@ -245,7 +245,7 @@ For this project, we expect you to look at this concept:
   julien@ubuntu:~/0x0a. malloc, free$
   ```
 
-- [4-free_grid.c](./4-free_grid.c): Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
+- [4-free_grid.c](./4-free_grid.c): Write a function that frees a 2 dimensional grid previously created by your `alloc_grid` function.
   - Prototype: `void free_grid(int **grid, int height);`
   - Note that we will compile with your `alloc_grid.c` file. Make sure it compiles.
 
