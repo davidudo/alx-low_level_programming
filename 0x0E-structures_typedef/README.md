@@ -166,7 +166,7 @@ expected to be able to explain to anyone, without the help of Google:
   julien@ubuntu:~/0x0d. structures, typedef$ 
   ```
 
-- [5-free_dog.c](.)5-free_dog.c): Write a function that frees dogs.
+- [5-free_dog.c](./5-free_dog.c): Write a function that frees dogs.
   - Prototype: `void free_dog(dog_t *d)`;
 
   ```bash
