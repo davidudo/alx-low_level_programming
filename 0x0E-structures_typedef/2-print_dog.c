@@ -7,6 +7,8 @@
  *
  * Description: gets the values from a struct dog and prints
  * the values in the terminal
+ *
+ * Return: nothing
  */
 
 void print_dog(struct dog *d)
