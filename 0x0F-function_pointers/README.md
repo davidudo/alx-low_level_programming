@@ -1,11 +1,11 @@
 # 0x0F. C - Function pointers
 
 ## Resources
-- [Function Pointer in C]()
-- [Pointers to functions]()
-- [Function Pointers in C / C++]()
-- [Why pointers to functions?]()
-- [Everything you need to know about pointers in ]()
+- [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
+- [Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
+- [Function Pointers in C / C++](https://m.youtube.com/watch?v=ynYtgGUNelE)
+- [Why pointers to functions?](https://m.youtube.com/watch?v=sxTFSDAZM8s&feature=youtu.be)
+- [Everything you need to know about pointers in ](https://boredzo.org/pointers/)
 
 ## Learning Objectives
 
@@ -345,7 +345,7 @@ This task requires that you create four different files.
   0000000000400605 837ddc02         cmp dword [rbp-0x24], 0x2
   0000000000400609 7414             jz 0x40061f             
   julien@ubuntu:~/0x0e. Function pointers$ 
-  ```bash
+  ```
 
   > Note 0: je is equivalent to jz
   > Note 1: depending on how you write your `main` function, and on which machine you compile your program, the opcodes (and by extension the assembly code) might be different than the above example
