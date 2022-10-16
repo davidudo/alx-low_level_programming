@@ -348,4 +348,5 @@ This task requires that you create four different files.
   ```
 
   > Note 0: je is equivalent to jz
+
   > Note 1: depending on how you write your `main` function, and on which machine you compile your program, the opcodes (and by extension the assembly code) might be different than the above example
