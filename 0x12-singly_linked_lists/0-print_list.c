@@ -4,7 +4,7 @@
  * print_list - returns the number of nodes
  * @h: struct list_s
  *
- * Returns: number of nodes
+ * Return: number of nodes
  */
 size_t print_list(const list_t *h)
 {
