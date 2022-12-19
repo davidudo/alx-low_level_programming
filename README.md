@@ -44,6 +44,10 @@
 - [0x13](./0x13-more_singly_linked_lists) : More singly linked lists.
 - [0x14](./0x14-bit_manipulation) : Bit manipulation.
 - [0x15](./0x15-file_io) : File I/O.
+- [0x16](https://github.com/davidudo/simple_shell) : Simple Shell.
+- [0x17](./0x17-doubly_linked_lists) : Doubly Linked List.
+- [0x18](./0x18-dynamic_libraries) : Dynamic Libraries.
+- [0x19](https://github.com/davidudo/monty) : Stacks, Queues - LIFO, FIFO.
 - [0x1C](./0x1C-makefiles) : Makefiles.
-- [0x1D](https://github.com/iAmG-r00t/binary_trees) : Binary trees.
+- [0x1D](https://github.com/davidudo/binary_trees) : Binary trees.
 - [0x1E](./0x1E-search_algorithms) : Search Algorithms.
